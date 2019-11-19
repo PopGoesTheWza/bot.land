@@ -12,7 +12,7 @@
 
         "strict": true,
         // "alwaysStrict": true,
-        // "noImplicitAny": true,
+        "noImplicitAny": false,
         // "noImplicitReturns": true,
         // "strictBindCallApply": true,
         // "strictNullChecks": true,
